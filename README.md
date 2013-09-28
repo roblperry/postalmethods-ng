@@ -4,7 +4,7 @@ postalmethods-ng
 A Ruby wrapper for [PostalMethods](http://postalmethods.com/) SOAP API.
 
 Unlike official postalmethods gem depending on abandoned soap4r library
-postalmethods-ng built around Savon SOAP Client v2.
+postalmethods-ng is built around [Savon](http://savonrb.com/) SOAP Client v2.
 
 Installation
 ------------
